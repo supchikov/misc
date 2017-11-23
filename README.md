@@ -1,2 +1,2 @@
-# misc
-misc
+# miscellaneous things
+miscellaneous things
